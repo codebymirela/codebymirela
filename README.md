@@ -20,11 +20,11 @@
 
 ### 📊 Github Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebymirela&show_icons=true&theme=rosepine&hide_border=true&count_private=true" alt="Github Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&layout=compact&theme=rosepine&hide_border=true" alt="Top Langs" height="180" />
-</p>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Cloud_Learning-FF69B4?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exam_Prep-AWS_Security-FFB7C5?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding-Java_%26_Go-F8B9D4?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 ---
 
 ### 💞 Connect with me
