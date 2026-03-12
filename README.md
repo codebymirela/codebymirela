@@ -18,10 +18,10 @@
 
 ---
 
-### 📊 Github Stats (Rose Theme)
+### 📊 Github Stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=[codebymirela]&show_icons=true&theme=rosepine&hide_border=true&count_private=true" alt="Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[codebymirela]&layout=compact&theme=rosepine&hide_border=true" alt="Langs" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=codebymirela&show_icons=true&theme=rosepine&hide_border=true&count_private=true" alt="Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&layout=compact&theme=rosepine&hide_border=true" alt="Langs" height="180" />
 
 ---
 
