@@ -6,7 +6,7 @@
 
 ### ✨ "Building scalable dreams in pink clouds" ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=AWS+Security+Specialist+in+Progress;Java+%26+Go+Developer;DevOps+Enthusiast;Exploring+AI+%26+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=AWS+Security+Java+%26+Go+Developer;DevOps+Enthusiast;Exploring+AI+%26+Data+Science)](https://git.io/typing-svg)
 
 ---
 
@@ -20,8 +20,8 @@
 
 ### 📊 Github Stats (Rose Theme)
 
-<img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=rosepine&hide_border=true&count_private=true" alt="Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=rosepine&hide_border=true" alt="Langs" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=[codebymirela]&show_icons=true&theme=rosepine&hide_border=true&count_private=true" alt="Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[codebymirela]&layout=compact&theme=rosepine&hide_border=true" alt="Langs" height="180" />
 
 ---
 
