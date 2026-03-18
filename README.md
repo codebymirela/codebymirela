@@ -1,10 +1,10 @@
 ## ☁️ About Me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbmZ0ZzRndm96eXJ6eHpxZzRndm96eXJ6eHpxZzRndm96eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKMGpxVf4V8Z6Ok/giphy.gif" align="right" width="150" />
+<img src="https://i.pinimg.com/avif/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.avf" align="right" width="150" />
 
 - 👩‍💻 I'm a **DevOps Enthusiast** passionate about automation and cloud architecture.
 - 🎓 2x AWS Certified.
-- 🐍 Mastering **Python and Go* to build scalable solutions.
+- 🐍 Mastering **Python and Go** to build scalable solutions.
 - 🐧 Linux lover and Open Source explorer.
 - 🤖 Exploring **Devops** and Infrastructure.
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codebymirela&show_icons=true&theme=calm&bg_color=fdf0f0&title_color=ffb3c1&icon_color=b7e4c7&text_color=555" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&layout=compact&theme=calm&bg_color=fdf0f0&title_color=ffb3c1&text_color=555" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&layout=compact&theme=calm&bg_color=fdf0f0&title_color=ffb3c1&text_color=555" />
 </p>
 
 <p align="center">
