@@ -29,13 +29,6 @@
 
 </div>
 
-
-## 📊 My GitHub Journey
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&layout=compact&theme=calm&bg_color=fdf0f0&title_color=ffb3c1&text_color=555" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codebymirela&color=b7e4c7&style=flat-square&label=PROFILE+VIEWS" />
 </p>
