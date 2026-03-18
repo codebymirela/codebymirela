@@ -18,7 +18,9 @@
 | **Data/AI** | ![Pandas](https://img.shields.io/badge/-Pandas-ffc8dd?style=flat-square&logo=pandas&logoColor=333) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ffc8dd?style=flat-square&logo=tensorflow&logoColor=333) |
 ---
 
-<div align="center">
+### 📊 My GitHub Journey
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=codebymirela&show_icons=true&theme=calm&bg_color=fdf0f0&title_color=ffb3c1&icon_color=b7e4c7&text_color=555" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&layout=compact&theme=calm&bg_color=fdf0f0&title_color=ffb3c1&text_color=555" />
-</div>
+</p>****
