@@ -35,11 +35,11 @@ Sou apaixonada por tecnologia e automação, com foco especial em arquitetura de
 />
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="LINUX" 
+    title="LINUX"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
     align="left" 
@@ -51,7 +51,7 @@ Sou apaixonada por tecnologia e automação, com foco especial em arquitetura de
 />
 <img 
     align="left" 
-    alt="Python" 
+    alt="Python"
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
@@ -67,28 +67,20 @@ Sou apaixonada por tecnologia e automação, com foco especial em arquitetura de
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Bash" 
+    title="Bash"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
 <img 
     align="left" 
-    alt="Bash"
-    title="Bash" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+/>     
 
 <br/>
 <br/>
