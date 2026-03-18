@@ -10,8 +10,6 @@
 - 🐧 **Linux** lover and Open Source explorer.
 - 🤖 Exploring **Infrastructure as Code (IaC)**.
 
----
-
 ## 🛠️ My Toolbox
 
 <div align="center">
