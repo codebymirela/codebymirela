@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/c6/1f/ed/c61fedd9096c670c3bb5510f830249f9.jpg" width="100%" />
-</div>
-
 # 👩🏻‍💻 Mirela
 
 **`DevOps & Cloud Enthusiast`**
