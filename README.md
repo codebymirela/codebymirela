@@ -30,7 +30,6 @@
 
 </div>
 
----
 
 ## 📊 My GitHub Journey
 
