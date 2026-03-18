@@ -102,4 +102,5 @@ Sou apaixonada por tecnologia e automação, com foco especial em arquitetura de
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebymirela&theme=tokyonight&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
