@@ -15,7 +15,6 @@
 <div align="center">
 
   ### Languages
-  ![Java](https://img.shields.io/badge/-Java-ffb3c1?style=for-the-badge&logo=java&logoColor=white) 
   ![Python](https://img.shields.io/badge/-Python-ffb3c1?style=for-the-badge&logo=python&logoColor=white) 
   ![Go](https://img.shields.io/badge/-Go-ffb3c1?style=for-the-badge&logo=go&logoColor=white) 
 
